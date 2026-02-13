@@ -1,0 +1,7 @@
+{
+  "name": "AMS",
+  "description": "Digital Attendance Portal for TY-BCA 2026-27 using Supabase and React.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
